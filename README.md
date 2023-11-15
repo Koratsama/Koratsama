@@ -23,7 +23,7 @@
 - 💬 Ask me about **Sabacc!!**
 - 📫 How to reach me: **sliston21@gmail.com**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **pending...**
+- ⚡ Fun fact: **I can solve a 7x7 rubik's cube... in about an hour 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
