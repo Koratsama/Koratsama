@@ -11,7 +11,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://twitter.com/amastaroK"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:sliston21@gmail.com"> <img src ="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="spring" width="30" height="30" /></a>
   
 </p>
 
@@ -27,7 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amastaroK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dino_elhadj" height="30" width="40" /></a>
+<a href="https://twitter.com/amastaroK" target="blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="koratsama" /></a>
+<a href="mailto:sliston21@gmail.com"> <img src ="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="spring" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
